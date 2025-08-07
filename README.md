@@ -1,5 +1,9 @@
 # autocomplete
 
+
+tem que baixar esse
+https://starship.rs/guide/
+
 ````javascirpt
 Install-Module PSReadLine -Force
 Import-Module PSReadLine
@@ -31,3 +35,4 @@ if (-not $env:STARSHIP_SESSION_KEY) {
 
 ````
 starship para personalizar o terminal
+
